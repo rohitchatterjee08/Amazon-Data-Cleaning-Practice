@@ -1,4 +1,5 @@
-Amazon Data Cleaning Practice
+🧹 Amazon Data Cleaning Practice
+
 A data-cleaning and preprocessing practice project using an Amazon product dataset. The project focuses on inspecting raw data, cleaning inconsistent values and data types, handling missing data, performing basic numerical analysis, and practicing Pandas and NumPy operations.
 
 📌 Project Overview
